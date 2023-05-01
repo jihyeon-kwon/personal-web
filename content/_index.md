@@ -10,7 +10,7 @@ show_action_link: true
 show_social_links: true
 subtitle: Ji's personal website
 text_align_left: false
-title: Ji Kwon
+title: Jihyeon Kwon
 type: home
 ---
 
